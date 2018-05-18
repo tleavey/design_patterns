@@ -1,5 +1,5 @@
 # Tim Leavey
-# Exercise 4: Observer Pattern
+# Observer Pattern
 
 class WeatherStation
 
