@@ -1,5 +1,6 @@
 # Tim Leavey
 # Observer Pattern
+# Description of this pattern at: https://en.wikipedia.org/wiki/Observer_pattern
 
 class WeatherStation
 
