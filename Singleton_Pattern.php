@@ -1,3 +1,6 @@
+// My version of the Singleton Pattern in php.
+// Description of pattern found at: https://en.wikipedia.org/wiki/Singleton_pattern
+
 <?php
 class Sky {
 
